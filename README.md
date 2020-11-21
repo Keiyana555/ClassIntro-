@@ -6,4 +6,4 @@
 
 ***I chose fintech in order to learn coding inside of finance sector.***
 
-!{} https://placekitten.com/g/200/300
+![]https://placekitten.com/g/200/300
